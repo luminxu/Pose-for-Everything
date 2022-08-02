@@ -86,4 +86,4 @@ Thanks to:
 
 ## License
 
-This project is released under the [Apache 2.0 license](LICENSE).
+This project is **ONLY** for research and non-commercial use. It is released under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
