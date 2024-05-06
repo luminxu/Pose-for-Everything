@@ -1,7 +1,7 @@
 MP-100 is built upon the 2D pose datasets, including 
 [COCO](http://cocodataset.org/), 
 [300W](https://ibug.doc.ic.ac.uk/resources/300-W/), 
-[AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/), 
+[AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/learning-recognition-surveillance/downloads/aflw), 
 [OneHand10K](https://www.yangangwang.com/papers/WANG-MCC-2018-10.html), 
 [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html), 
 [AP-10K](https://github.com/AlexTheBad/AP-10K), 
@@ -58,7 +58,7 @@ Specifically,
 
 - **human_face** is collected from [300W](https://ibug.doc.ic.ac.uk/resources/300-W/).
 
-- **amur_tiger_body** is collected from [AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/).
+- **amur_tiger_body** is collected from [AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/learning-recognition-surveillance/downloads/aflw).
 
 - **human_hand** is collected from [OneHand10K](https://www.yangangwang.com/papers/WANG-MCC-2018-10.html).
 
