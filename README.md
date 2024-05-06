@@ -53,7 +53,7 @@ GPUS=16 GPUS_PER_NODE=8 CPUS_PER_TASK=2 ./tools/slurm_train.sh Test pomnet \
 1. The dataset is only for non-commercial research purposes. 
 2. All images of the MP-100 dataset are from existing datasets ([COCO](http://cocodataset.org/), 
 [300W](https://ibug.doc.ic.ac.uk/resources/300-W/), 
-[AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/), 
+[AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/learning-recognition-surveillance/downloads/aflw), 
 [OneHand10K](https://www.yangangwang.com/papers/WANG-MCC-2018-10.html), 
 [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html), 
 [AP-10K](https://github.com/AlexTheBad/AP-10K), 
