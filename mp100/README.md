@@ -3,7 +3,7 @@ MP-100 is built upon the 2D pose datasets, including
 [300W](https://ibug.doc.ic.ac.uk/resources/300-W/), 
 [AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/learning-recognition-surveillance/downloads/aflw), 
 [OneHand10K](https://www.yangangwang.com/papers/WANG-MCC-2018-10.html), 
-[DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html), 
+[DeepFashion2](https://github.com/switchablenorms/DeepFashion2), 
 [AP-10K](https://github.com/AlexTheBad/AP-10K), 
 [MacaquePose](http://www.pri.kyoto-u.ac.jp/datasets/macaquepose/index.html), 
 [Vinegar Fly](https://github.com/jgraving/DeepPoseKit-Data), 
@@ -75,7 +75,7 @@ Specifically,
 **trousers**, 
 **vest**, 
 and **vest_dress** 
-are collected from [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html).
+are collected from [DeepFashion2](https://github.com/switchablenorms/DeepFashion2).
 
     For simplicity, all the categories can be linked to the complete downloaded dataset.
     
